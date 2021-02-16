@@ -11,13 +11,13 @@
             <a class="nav-link active" aria-current="page" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Migraciones</a>
+            <a class="nav-link" href="/migraciones">Migraciones</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Seeders</a>
+            <a class="nav-link" href="/seeders">Seeders</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Mail</a>
+            <a class="nav-link" href="/mail">Mail</a>
           </li>
         </ul>
         <form class="d-flex">

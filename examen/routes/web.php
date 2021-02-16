@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+Route::view('/migraciones','migraciones')->name('migraciones');
+Route::view('/seeders','seeders')->name('seeders');
+Route::view('/mail','mail')->name('mail');
